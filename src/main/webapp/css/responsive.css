@@ -1,0 +1,286 @@
+@media screen and (max-width:1193px) {
+.wrapper {
+	margin: 0 auto;
+	padding-left: 40px;
+	padding-right: 40px
+}
+.header .wrapper .text {
+	width: 332px
+}
+.follow-the-arrow .text, .follow-the-arrow .wrapper {
+	width: 400px;
+}
+.share .wrapper {
+	width: 680px;
+	padding-left: 0
+}
+.share .wrapper h2, .share .wrapper p {
+	margin-left: 0
+}
+.share .light {
+	left: 333px
+}
+.no3g .text {
+	margin-left: 0
+}
+.no3g .wrapper {
+	width: 688px
+}
+.no3g .wrapper .imagen {
+	margin-left: 34px
+}
+.footer .wrapper {
+	width: 688px
+}
+.save {
+	width: 767px
+}
+.save .saveoptions {
+	width: 33%
+}
+}
+@media screen and (max-width:767px) {
+h1, h2, p {
+	text-align: center
+}
+h2 {
+	font-size: 40px
+}
+p {
+	font-size: 22px
+}
+.wrapper {
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 10px;
+	padding-right: 10px
+}
+.language {
+	display: block;
+	margin-bottom: 36px
+}
+.header {
+	height: 809px
+}
+.header .rule {
+	visibility: hidden
+}
+.header h3 {
+	margin-bottom: 52px
+}
+.header .wrapper .text {
+	text-align: center;
+	width: 100%;
+	margin-right: auto;
+	margin-top: 30px;
+	margin-left: auto
+}
+.header .wrapper .icon {
+	margin: 0 auto 35px;
+	display: block
+}
+.header .wrapper .device {
+	display: none
+}
+.header .wrapper .deviceMobile
+{
+	display:block;
+	margin:0 auto;
+}
+.container
+{
+	width:100%;
+}
+.header
+{
+	height:450px;
+	padding:100px 0;
+	background-position:right top;
+}
+.col-lg-4
+{
+	width:100%;
+}
+.header h1 {
+	margin-bottom: 8px;
+	margin-right: auto;
+	margin-left: auto;
+	right: 0
+}
+.header .buy {
+	margin-top: 0
+}
+.buy .app_store {
+	float: none;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative
+}
+.follow-the-arrow {
+	text-align: center
+}
+.follow-the-arrow .text {
+	width: 100%;
+	margin-top: 70px
+}
+.follow-the-arrow .text h2 {
+	margin-bottom: 12px
+}
+.arrow-ipad-noanimation, .arrow-iphone-noanimation, .follow-the-arrow .arrows, .follow-the-arrow .arrows .arrow-ipad, .follow-the-arrow .arrows .arrow-iphone {
+	display: none
+}
+.arrow-smallformat {
+	display: block;
+	margin-right: auto;
+	margin-left: auto
+}
+.arrow-smallformat img {
+	width: 90%;
+	height: auto
+}
+.share .wrapper {
+	width: 80%;
+	text-shadow: gray 1px 1px 5px;
+	margin-top: 57px;
+	height: 460px
+}
+.share .wrapper h2 {
+	width: 100%
+}
+.share .wrapper p {
+	margin-left: 0;
+	font-weight: 700;
+	width: 100%
+}
+.no3g .wrapper {
+	margin-top: 66px;
+	height: 780px;
+	width: 80%
+}
+.no3g .text {
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	bottom: -373px;
+	position: relative
+}
+.no3g h2 {
+	margin-bottom: 12px
+}
+.no3g .wrapper .imagen {
+	float: none;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative
+}
+.world-animation {
+	position: absolute;
+	width: 274px;
+	top: -50px;
+	left: 50%;
+	margin-left: -169px
+}
+.no3g .wrapper .imagen1 {
+	left: -5px
+}
+.no3g .wrapper .imagen2 {
+	left: 20px
+}
+.shadow, .shadow img {
+	width: 100%
+}
+.footer .buy {
+	width: 133px;
+	margin: 30px auto 0
+}
+.footer .wrapper {
+	width: 80%
+}
+.save {
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto
+}
+.save .saveoptions {
+	width: 100%;
+	border-right: 0
+}
+.save .saveoptions:first-child {
+	border-left: 1px solid #bbbec4
+}
+.save .saveoptions p {
+	padding-bottom: 7px;
+	width: 240px;
+	border-top: 1px solid #d1d4dd;
+	padding-top: 6px;
+	margin: 25px auto 0
+}
+.save .saveoptions img {
+	margin-top: 20px
+}
+.save h2 {
+	margin-bottom: 27px
+}
+.left-border {
+	border-left: 0
+}
+.footer ul
+{
+	width:100%;
+}
+.mobileNumber input
+{
+	width:50%;
+}
+.mobileNumber button
+{
+	width:29%;
+}
+.getMobile h2
+{
+	float:none;
+}
+.follow-the-arrow .text
+{
+	margin:0;
+}
+}
+@media screen and (max-width:380px) {
+.text p {
+	font: 400 20px/28px GillSansStd-Light, Helvetica, Arial, Geneva, sans-serif
+}
+.follow-the-arrow .text, .follow-the-arrow .wrapper {
+	width: 100%;
+}
+.text h2 {
+	font-size: 41px;
+	line-height: 43px
+}
+/*.header {
+	height: 846px
+}*/
+.header .wrapper .icon {
+	width: 50%;
+	height: auto;
+	margin: 0 auto 35px
+}
+.header h1 {
+	width: 100%;
+	background-size: 100%;
+	background-position: center center
+}
+.header h3 {
+	font-size: 25px;
+	margin-bottom: 41px
+}
+.follow-the-arrow .iphone {
+	width: 100%;
+	margin: 86px auto 20px
+}
+.share .wrapper .text {
+	width: 90%;
+	margin-top: 165px
+}
+}
